@@ -11,3 +11,10 @@ there are Three files to look at. 1) The main page 2) The Poker game 3) The roul
 
 The main page will take two inputs which is your name and the amout you want you buy in. later you will select
 which game you wish to play, either poket or roulette by selecting a button.
+
+-- HOW IT WORKS -- 
+
+1) Please donwload all the files including the recomneded images for poker.
+2) Rename the files as shown in the file included.
+3) start the file name newplayer.m
+
